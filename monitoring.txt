@@ -1,0 +1,11 @@
+TOP: display all running and active real-time processes
+Vmstat: To display statistics like virtual-memory,kernal…etc
+Lsof: to list open files
+Tcpdump; Network Packet Analyser
+Netstat: monitoring incoming and outgoing network
+Htop: Linux process monitoring tool
+iotop: Monitor linux disk I/O
+Iostat: I/O statistics
+Iptraf- ip LAN 
+MOnitorix
+
