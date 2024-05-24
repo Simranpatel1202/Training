@@ -9,3 +9,15 @@ Iostat: I/O statistics
 Iptraf- ip LAN 
 MOnitorix
 
+Network tools:
+PING
+HOST
+FINGER
+TRACEROUTE
+NETSTAT
+TRACEPATH
+DIG
+HOSTNAME
+ROUTE
+NSLOOKUP
+
